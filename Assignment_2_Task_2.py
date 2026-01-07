@@ -1,6 +1,6 @@
 sum=0
 start=1
-end=50
+end=51
 for i in range(start,end):
     sum+=i
     
